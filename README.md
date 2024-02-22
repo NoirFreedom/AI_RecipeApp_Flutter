@@ -5,6 +5,14 @@
 
 모두의 셰프는 사용자의 냉장고 속 식재료를 인식하여 맞춤형 레시피를 제안하는 모바일 애플리케이션입니다. 인공 지능을 활용한 이미지 인식 기능으로 사용자가 가진 식재료를 파악하고, 해당 재료를 사용한 다양한 요리법을 제공합니다.
 
+<br>
+
+> **앱시연 영상 URL**: https://youtu.be/RSRcfckz6HU
+
+> **기획서**: https://gamma.app/docs/ModoChef-main-m7ea3739wz0vjia
+
+> **앱 설계도**: https://www.figma.com/file/6CbChHGa42KdrpcIrs7MqO/'Fridgeat'-Workflow?type=whiteboard&node-id=0%3A1&t=h5M48oi4s3ipMqKK-1
+
 ## 주요 기능
 
 - **식재료 인식**: 카메라를 통해 식재료를 사진으로 찍으면, 앱이 해당 식재료를 자동으로 인식합니다.
@@ -17,20 +25,10 @@
 
 ## 기술 스택
 
-- **Flutter & Dart**: 크로스 플랫폼 호환성과 빠른 개발을 위해 Flutter 프레임워크와 Dart 언어를 사용했습니다.
-
-- **TensorFlow Lite**: 모바일 기기에서 빠른 이미지 인식을 위해 TensorFlow Lite를 적용했습니다.
-
-- **Firebase**: 사용자 인증과 데이터 관리를 위해 Firebase를 통합했습니다.
+`Flutter` `Tensorflow` `Python` `Roboflow` `Figma`
 
 <br>
-<br>
 
-> **앱시연 영상 URL**: https://youtu.be/RSRcfckz6HU
-
-> **기획서(Gamma)**: https://gamma.app/docs/ModoChef-main-m7ea3739wz0vjia
-
-> **앱 로직 설계(Figma)**: https://www.figma.com/file/6CbChHGa42KdrpcIrs7MqO/'Fridgeat'-Workflow?type=whiteboard&node-id=0%3A1&t=h5M48oi4s3ipMqKK-1
 
 <br>
 <br>
