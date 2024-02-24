@@ -59,6 +59,9 @@
 <p float="left">
   <img src="moduchef/assets/images/readmeImg/loading_screen.jpg" alt="Moduchef Screen Image" width="250">
 </p>
+
+*디자인 툴을 사용하여, 로딩화면을 구현하였습니다*
+
 <br>
 
 ## 로그인 & 회원가입 화면
@@ -67,6 +70,7 @@
   <img src="moduchef/assets/images/readmeImg/signUp_screen.jpg" alt="Moduchef Screen Image" width="250">
   <img src="moduchef/assets/images/readmeImg/login_form_screen.jpg" alt="Moduchef Screen Image" width="250">
 </p>
+
 <br>
 
 ## 온보딩 화면
@@ -74,6 +78,9 @@
   <img src="moduchef/assets/images/readmeImg/select_seasoning_screen.jpg" alt="Moduchef Screen Image" width="250">
   <img src="moduchef/assets/images/readmeImg/onboarding_screen.jpg" alt="Moduchef Screen Image" width="250">
 </p>
+
+*객체감지 모델을 사용해 식재료뿐만 아니라 조미료와 기타 요소까지 감지하는 과정에서 추천 레시피의 경우의 수가 증가하여 사용자가 실제로 원하는 레시피를 추천하기 어려워진다는 문제가 발생하고, 더 많은 데이터와 학습이 필요해집니다. 이에 따라, 온보딩 화면에서 사용자가 소유한 조미료를 직접 입력하고 추후 수정이 가능하도록 구현 함으로써 초기 단계의 시스템 최적화를 진행했습니다.*
+
 <br>
 
 ## 식재료 감지 화면
@@ -81,6 +88,9 @@
   <img src="moduchef/assets/images/readmeImg/object_detection_screen1.jpg" alt="Moduchef Screen Image" width="250">
   <img src="moduchef/assets/images/readmeImg/object_detection_screen2.jpg" alt="Moduchef Screen Image" width="250">
 </p>
+
+*YOLO v8s에서의 디바이스 발열문제를 개선하고자, 보다 경량화 된 YOLO v8n를 적용하였고, 정확도는 평균 82%를 달성하였습니다.*
+
 <br>
 
 ## 메인 & 서브 카테고리 설정 화면
@@ -89,6 +99,9 @@
   <img src="moduchef/assets/images/readmeImg/sub_category_screen.jpg" alt="Moduchef Screen Image" width="250">
   <img src="moduchef/assets/images/readmeImg/waiting_screen.jpg" alt="Moduchef Screen Image" width="250">
 </p>
+
+*보다 개인화된 레시피 추천을 위해, 사용자가 선택해야하는 항목이며, 식재료를 제외한 선택된 항목은 다음 레시피 추천과정에서도 유지되도록 하여 빠른 레시피 추천이 가능하도록 간편화 시켰습니다.*
+
 <br>
 
 ## 추천 레시피 출력 화면
@@ -96,5 +109,8 @@
   <img src="moduchef/assets/images/readmeImg/recipes_result_screen.jpg" alt="Moduchef Screen Image" width="250">
 
 </p>
+
+*GPT가 반환한 레시피에 텍스트 포멧팅을 적용하여 가독성을 향상시켰습니다.*
+
 <br>
 
