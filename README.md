@@ -8,13 +8,13 @@
 
 <br>
 
-**📍앱시연 영상 URL**: https://youtu.be/RSRcfckz6HU
+**📍앱시연 영상 URL**: *https://youtu.be/RSRcfckz6HU*
 
-**📍기획서**: https://gamma.app/docs/ModoChef-main-21ol214sr4dvtjz
+**📍기획서**: *https://gamma.app/docs/ModoChef-main-21ol214sr4dvtjz*
 
-**📍앱 설계도**: https://www.figma.com/file/Ox0yntkjwE2Da50G0wx5b9/'%EB%AA%A8%EB%91%90%EC%9D%98%EC%85%B0%ED%94%84-Workflow'?type=whiteboard&node-id=0%3A1&t=EUoBGpHvDn4493Ap-1
+**📍앱 설계도**: *https://www.figma.com/file/Ox0yntkjwE2Da50G0wx5b9/'%EB%AA%A8%EB%91%90%EC%9D%98%EC%85%B0%ED%94%84-Workflow'?type=whiteboard&node-id=0%3A1&t=EUoBGpHvDn4493Ap-1*
 
-**📍프로젝트 관리 노션페이지**: https://www.notion.so/App-Project-cad4734baafa4380a47d3f9b4d8b4b66?pvs=4
+**📍프로젝트 관리 노션페이지**: *https://www.notion.so/App-Project-cad4734baafa4380a47d3f9b4d8b4b66?pvs=4*
 
 <br>
 
