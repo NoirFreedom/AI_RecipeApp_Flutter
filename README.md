@@ -8,7 +8,6 @@
 
 <br>
 
-**📍앱시연 영상 URL**: *https://youtu.be/RSRcfckz6HU*
 
 **📍기획서**: *https://gamma.app/docs/ModoChef-main-21ol214sr4dvtjz*
 
